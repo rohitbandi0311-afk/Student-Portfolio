@@ -27,3 +27,10 @@ These are the technologies I have worked with or am currently learning. Be prepa
 - Testing and debugging
 - Machine learning fundamentals
 - Collaborative software development
+
+## Certifications and Learning
+
+- Google Cloud Skills Boost: completed hands-on labs and skill badges.
+- Agile Software Engineering: coursework and learning activities.
+- LinkedIn Learning: professional communication and presentation skills.
+- Continuous learning: Git, GitHub, Python, SQL, and web development.
